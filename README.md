@@ -62,6 +62,7 @@ pip install pandas scikit-learn matplotlib
 python main.py
 ``` 
 ---
+ ```bash
 📊 Model Comparison
 Model Type	Accuracy	Precision	Recall	F1-score	ROC-AUC
 No Regularization	0.85	0.87	0.83	0.85	0.86
@@ -69,3 +70,4 @@ L2 (C=0.1)	0.88	0.89	0.86	0.87	0.89
 L2 (C=1)	0.90	0.91	0.88	0.89	0.91
 L2 (C=10)	0.89	0.90	0.87	0.88	0.90
 ✔ Best Model: L2 Regularization with C=1, achieving the highest accuracy and balanced precision/recall.
+```
