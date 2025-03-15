@@ -14,7 +14,7 @@ A **machine learning project** that uses **Logistic Regression** to classify app
 ## 🖼️ Screenshots 
 
 ### **🔹 ROC Curve**  
-![ROC Curve](ROC_plot)  
+![ROC Curve](ROCـplot.png)  
 
 ---
 
