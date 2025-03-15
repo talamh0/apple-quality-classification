@@ -1,4 +1,4 @@
-# 🍏 Apple Quality Classification  
+#  Apple Quality Classification  
 
 A **machine learning project** that uses **Logistic Regression** to classify apples as **good** or **bad** based on various features. The dataset is preprocessed, trained with models using **L2 regularization**, and evaluated using performance metrics and an **ROC curve**.
 
@@ -52,15 +52,15 @@ The dataset is publicly available and can be accessed here:
    ```bash
    git clone https://github.com/your-username/apple-quality-classification.git
    cd apple-quality-classification
-
+``` 
 2️⃣ Install dependencies:
  ```bash
 pip install pandas scikit-learn matplotlib
-
+``` 
 3️⃣ Run the Python script:
  ```bash
 python main.py
-
+``` 
 ---
 📊 Model Comparison
 Model Type	Accuracy	Precision	Recall	F1-score	ROC-AUC
