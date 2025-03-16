@@ -2,7 +2,7 @@
 
 A **machine learning project** that uses **Logistic Regression** to classify apples as **good** or **bad** based on various features. The dataset is preprocessed, trained with models using **L2 regularization**, and evaluated using performance metrics and an **ROC curve**.
 
-## 🚀 Features  
+##  Features  
 - 📌 **Data Preprocessing**: Cleans missing values and applies feature scaling.  
 - 📌 **Logistic Regression**: Implements classification with and without regularization.  
 - 📌 **Model Comparison**: Evaluates multiple models with different regularization strengths.  
